@@ -1,0 +1,12 @@
+C:\Users\dell\Desktop\New folder\Assignmentnumber6\BlazorApp\BlazorWebAssemblySignalRApp\Shared\bin\Debug\net5.0\BlazorWebAssemblySignalRApp.Shared.deps.json
+C:\Users\dell\Desktop\New folder\Assignmentnumber6\BlazorApp\BlazorWebAssemblySignalRApp\Shared\bin\Debug\net5.0\BlazorWebAssemblySignalRApp.Shared.dll
+C:\Users\dell\Desktop\New folder\Assignmentnumber6\BlazorApp\BlazorWebAssemblySignalRApp\Shared\bin\Debug\net5.0\ref\BlazorWebAssemblySignalRApp.Shared.dll
+C:\Users\dell\Desktop\New folder\Assignmentnumber6\BlazorApp\BlazorWebAssemblySignalRApp\Shared\bin\Debug\net5.0\BlazorWebAssemblySignalRApp.Shared.pdb
+C:\Users\dell\Desktop\New folder\Assignmentnumber6\BlazorApp\BlazorWebAssemblySignalRApp\Shared\obj\Debug\net5.0\BlazorWebAssemblySignalRApp.Shared.csproj.AssemblyReference.cache
+C:\Users\dell\Desktop\New folder\Assignmentnumber6\BlazorApp\BlazorWebAssemblySignalRApp\Shared\obj\Debug\net5.0\BlazorWebAssemblySignalRApp.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Desktop\New folder\Assignmentnumber6\BlazorApp\BlazorWebAssemblySignalRApp\Shared\obj\Debug\net5.0\BlazorWebAssemblySignalRApp.Shared.AssemblyInfoInputs.cache
+C:\Users\dell\Desktop\New folder\Assignmentnumber6\BlazorApp\BlazorWebAssemblySignalRApp\Shared\obj\Debug\net5.0\BlazorWebAssemblySignalRApp.Shared.AssemblyInfo.cs
+C:\Users\dell\Desktop\New folder\Assignmentnumber6\BlazorApp\BlazorWebAssemblySignalRApp\Shared\obj\Debug\net5.0\BlazorWebAssemblySignalRApp.Shared.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\New folder\Assignmentnumber6\BlazorApp\BlazorWebAssemblySignalRApp\Shared\obj\Debug\net5.0\BlazorWebAssemblySignalRApp.Shared.dll
+C:\Users\dell\Desktop\New folder\Assignmentnumber6\BlazorApp\BlazorWebAssemblySignalRApp\Shared\obj\Debug\net5.0\ref\BlazorWebAssemblySignalRApp.Shared.dll
+C:\Users\dell\Desktop\New folder\Assignmentnumber6\BlazorApp\BlazorWebAssemblySignalRApp\Shared\obj\Debug\net5.0\BlazorWebAssemblySignalRApp.Shared.pdb
